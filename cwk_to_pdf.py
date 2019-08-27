@@ -1,3 +1,10 @@
+'''
+Python script for Mac to convert AppleWorks and ClarisWorks files in a folder to PDF
+
+Author: Mathias Beke
+Date:   August 2019
+'''
+
 import os
 import subprocess
 import sys
